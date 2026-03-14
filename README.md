@@ -1,6 +1,6 @@
 
   # EID APP
 
-Prototipe website untuk Entrepeneur Dashboard
+Prototipe website untuk Entrepreneur Dashboard
 
   
